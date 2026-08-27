@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LicenseServer", "Server\LicenseServer.vbproj", "{CCA54521-DB0A-4E04-AB0C-DC4DE6D68707}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Client", "Client\Client.vbproj", "{372B7350-CA41-4418-B63C-42AC6E011414}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCA54521-DB0A-4E04-AB0C-DC4DE6D68707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA54521-DB0A-4E04-AB0C-DC4DE6D68707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA54521-DB0A-4E04-AB0C-DC4DE6D68707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA54521-DB0A-4E04-AB0C-DC4DE6D68707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{372B7350-CA41-4418-B63C-42AC6E011414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372B7350-CA41-4418-B63C-42AC6E011414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372B7350-CA41-4418-B63C-42AC6E011414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372B7350-CA41-4418-B63C-42AC6E011414}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
