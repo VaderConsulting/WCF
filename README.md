@@ -15,6 +15,10 @@ VB.NET Visual Studio 2008 solution for a duplex WCF license-oriented service and
 
 Open `WCF.sln` in Visual Studio 2008 or later (solution format 10.00 / ToolsVersion 3.5). Build both projects; run `Server` first. Default listen address in `Server` settings/`app.config` is `net.tcp://localhost:22222/...` (settings file uses path `/WCFServer`, `app.config` applicationSettings uses `/Service`). Requires .NET Framework 3.5 and `System.ServiceModel`.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 3.5
+
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `WCF`. Assembly company/copyright still show the Visual Studio template defaults (Microsoft 2008). Project names `LicenseServer` / `Client`; namespaces `Server` / `Client`; service type `LicenseService`.
