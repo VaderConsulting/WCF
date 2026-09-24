@@ -21,7 +21,7 @@ Open `WCF.sln` in Visual Studio 2008 or later (solution format 10.00 / ToolsVers
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `WCF`. Assembly company/copyright still show the Visual Studio template defaults (Microsoft 2008). Project names `LicenseServer` / `Client`; namespaces `Server` / `Client`; service type `LicenseService`.
+Working copy from my Historical Dev folder `WCF`. Assembly company/copyright still show the Visual Studio template defaults (Microsoft 2008). Project names `LicenseServer` / `Client`; namespaces `Server` / `Client`; service type `LicenseService`.
 
 ## License
 
